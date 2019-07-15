@@ -1,7 +1,7 @@
 # Devanagiri Recognition 
 This code helps you classify different alphabets of hindi language (Devanagiri) using Convnets
 <p align="center">
-<img src="images/devanagari_generate.gif" title="Generated Data Animation" alt="Generated Data Animation">
+<img src="https://github.com/Natsu6767/Generating-Devanagari-Using-DRAW/blob/master/images/devanagari_generate.gif" title="Generated Data Animation" alt="Generated Data Animation">
 </p>
 
 ### Code Requirements
