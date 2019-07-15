@@ -1,8 +1,5 @@
-# Devanagiri Recognition [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Devanagiri-Recognizer/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
+# Devanagiri Recognition 
 This code helps you classify different alphabets of hindi language (Devanagiri) using Convnets
-
-### Sourcerer
-[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Devanagiri-Recognizer/images/0)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Devanagiri-Recognizer/links/0)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Devanagiri-Recognizer/images/1)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Devanagiri-Recognizer/links/1)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Devanagiri-Recognizer/images/2)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Devanagiri-Recognizer/links/2)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Devanagiri-Recognizer/images/3)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Devanagiri-Recognizer/links/3)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Devanagiri-Recognizer/images/4)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Devanagiri-Recognizer/links/4)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Devanagiri-Recognizer/images/5)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Devanagiri-Recognizer/links/5)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Devanagiri-Recognizer/images/6)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Devanagiri-Recognizer/links/6)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Devanagiri-Recognizer/images/7)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Devanagiri-Recognizer/links/7)
 
 ### Code Requirements
 You can install Conda for python which resolves all the dependencies for machine learning.
@@ -35,13 +32,11 @@ I am using Tensorflow as the framework and Keras API for providing a high level 
 ### Train Acuracy ~ 95%
 ### Test Acuracy ~ 92%
 
-<img src="https://github.com/akshaybahadur21/Devanagiri-Recognizer/blob/master/hindi.gif">
-
 ### Execution for writing through webcam
-To run the code, type `python Dev-Rec.py`
+To run the code, type `python app.py`
 
 ```
-python Dev-Rec.py
+python app.py
 ```
 
 
