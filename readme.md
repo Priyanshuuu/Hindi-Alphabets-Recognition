@@ -5,7 +5,14 @@ This code helps you classify different alphabets of hindi language [Devanagari](
 </p>
 
 ### Code Requirements
-You can install Conda for python which resolves all the dependencies for machine learning.
+You can install Conda for python which resolves all the dependencies for machine learning. This code is checked on :
+```
+Python version = 3.5.6
+keras version = 2.2.0
+Tensorflow version = 1.10.0
+
+```
+
 
 ### Description
 This code successfully recognizes hindi characters.
