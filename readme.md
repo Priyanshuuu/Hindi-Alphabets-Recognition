@@ -1,5 +1,8 @@
 # Devanagiri Recognition 
 This code helps you classify different alphabets of hindi language (Devanagiri) using Convnets
+<p align="center">
+<img src="images/devanagari_generate.gif" title="Generated Data Animation" alt="Generated Data Animation">
+</p>
 
 ### Code Requirements
 You can install Conda for python which resolves all the dependencies for machine learning.
