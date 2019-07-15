@@ -39,8 +39,8 @@ I am using Tensorflow as the framework and Keras API for providing a high level 
 2) Images of size 32 X 32
 4) Convolutional Network Support added.
 
-### Train Acuracy ~ 95%
-### Test Acuracy ~ 92%
+### Train Acuracy ~ 94%
+### Test Acuracy ~ 93%
 
 ### Execution for writing through webcam
 <img src="https://github.com/Priyanshuuu/Hindi-Alphabets-Recognition/blob/master/images/sample_video.gif">
