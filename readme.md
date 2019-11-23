@@ -6,13 +6,13 @@ This code helps you classify different alphabets of hindi language [Devanagari](
 
 ### Code Requirements
 
-3.	Hands-on ( 30 mins) 
-•	Need some Pre-installed Packages like
-1.	Anaconda Distribution- Python 3.7
+
+•	Need some Pre-installed Packages like 
+*1. Anaconda Distribution- Python 3.7
 Link - https://www.anaconda.com/distribution/
-2.	 OpenCV – it should be installed via anaconda prompt after installation of Anaconda Distribution
+*2. OpenCV – it should be installed via anaconda prompt after installation of Anaconda Distribution
 Link - https://anaconda.org/conda-forge/opencv
-•	WebCam 
+*3.	WebCam 
 
 You can install Conda for python which resolves all the dependencies for machine learning. This code is checked on :
 ```
